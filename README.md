@@ -79,9 +79,8 @@ Special thanks to the Xbox 360 homebrew and development community and to everyon
 
 ### Special Thanks
 
-* **Swiizy**
-* **Isei Yoshida**
-* **Codex**
+* **Isei**
+
 
 And everyone who continues contributing knowledge, tools, documentation, and research to the Xbox 360 community.
 
